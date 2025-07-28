@@ -1,0 +1,2 @@
+Test Case 1: Secret = 3
+Test Case 2: Secret = 79836264049890
