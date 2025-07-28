@@ -10,6 +10,7 @@ This project solves a simplified version of Shamir's Secret Sharing problem from
 - `test_case_2.cpp`: Solver for Test Case 2 (filters out wrong shares)
 - `testcase1.html`: Input file for Test Case 1
 - `testcase2.html`: Input file for Test Case 2
+- output.txt : stores both the test cases outputs
 
 ## ✅ Final Output
 
